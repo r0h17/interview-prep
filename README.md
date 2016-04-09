@@ -17,6 +17,7 @@ https://www.quora.com/How-do-I-prepare-to-answer-design-questions-in-a-technical
 
 Problems
 https://github.com/blakeembrey/code-problems
+http://gauss.math.luc.edu/greicius/Math201/Fall2012/Lectures/primes2.article.pdf
 
 
 
