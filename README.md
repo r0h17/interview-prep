@@ -24,5 +24,10 @@ Just Some helpful links and sources to prepare for interviews. I am listing down
 
 * https://github.com/blakeembrey/code-problems
 * http://gauss.math.luc.edu/greicius/Math201/Fall2012/Lectures/primes2.article.pdf
+* 
+
+### Books
+* Domain-Driven Design: Tackling Complexity in the Heart of Software
+* 
 
 
